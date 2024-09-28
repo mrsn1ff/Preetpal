@@ -13,7 +13,7 @@ const seo = {
   og: {
     title: "Preetpal Singh Portfolio",
     type: "website",
-   url:"https://Kshitijchaudhary.vercel.app/",
+   url:"https://preetpal.vercel.app/",
   },
 };
 
@@ -136,7 +136,7 @@ const degrees = {
       alt_name: "PIET",
       duration: "2022 - 2025",
       descriptions: [
-        "⚡ I have studied basic software engineering subjects like DS, Algorithms, DBMS, Computer Network, AI etc.",
+        "⚡ I have studied software engineering subjects like DS, Algorithms, DBMS, Computer Network, AI etc.",
         "⚡ Apart from this, I have done course on Web Development.",
       
       ],
@@ -146,10 +146,10 @@ const degrees = {
       title: "DR. M.K.K ARYA MODEL SCHOOL PANIPAT",
       subtitle: "Model Town Panipat",
       logo_path: "mkk_logo.png",
-      alt_name: "Indiana University Bloomington",
+      alt_name: "DR. M.K.K ARYA MODEL SCHOOL PANIPAT",
       duration: "2007 - 2022",
       descriptions: [
-        "Class XII: 91% , with Accounts , Mathematics and Business Studies.",
+        "Class XII: 91%",
         "Class X: 78%"
       ],
       website_link: "https://www.mkkschool.com/",
