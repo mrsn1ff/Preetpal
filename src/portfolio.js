@@ -408,7 +408,7 @@ const contactPageData = {
     title: "Articles",
     subtitle:
       "I like to talk about the mathematical aspects on neural networks and other deep learning models.",
-    link: "https://medium.com/@@chaudharykshitij12",
+    link: "https://medium.com/@preetpalsingh591",
     avatar_image_path: "blogs_image.svg",
   },
   addressSection: {
