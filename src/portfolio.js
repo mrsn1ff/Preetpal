@@ -262,35 +262,35 @@ const experience = {
     "I participated in Manthon 2.0 and Manthon 3.0 hackathons, where I served as the Frontend Developer. During these events, I developed user interfaces for web applications, focusing on responsive design and user experience. I collaborated with team members to integrate APIs and enhance application functionality. These experiences not only improved my technical skills in React and UI/UX design but also strengthened my teamwork and problem-solving abilities.",
   header_image_path: "experience.svg",
   sections: [
-    // {
-    //   title: "Internships",
-    //   experiences: [
-      //   {
-      //     title: "Machine Learning Intern",
-      //     company: "CodSoft",
-      //     company_url: "https://drive.google.com/file/d/1lJhq0EH3KAIDt7FvXhPAH85HSp4T7kFO/view",
-      //     logo_path: "codsoft.png",
-      //     duration: "Aug 2024 - Sep 2024",
-      //     location: "Chennai, India",
-      //     description:
-      //       "Phase01: The objective of this project create a machine learning model that can predict the genre of a movie based on its plot summary or other textual information.",
-      //     color: "#ee3c26",
-      //   }, 
+    {
+      title: "Internships",
+      experiences: [
+        {
+          title: "Web Developer",
+          company: "GAO Tek Inc.",
+          company_url: "https://gaotek.com/",
+          logo_path: "gaotek.jpg",
+          duration: "Oct 2024 - Jan 2025",
+          location: "Delaware, USA",
+          description:
+            "Web Developer Intern at GAO Tek Inc. in Delaware, USA for three months. Gained hands-on experience in debugging, optimizing performance, and working within a dynamic team.",
+          color: "#ee3c26",
+        }, 
       
-      //      {
-      //     title: "Data Science Intern",
-      //     company: "Coder's Cave",
-      //     company_url: "https://www.linkedin.com/posts/kshitij-chaudhary-91374b2b3_coderscave-thank-you-activity-7228309716907474944-mlvw?utm_source=share&utm_medium=member_desktop",
-      //     logo_path: "coderscave.png",
-      //     duration: "July 2023 - Aug 2023",
-      //     location: "Chennai, India",
-      //     description:
-      //       "Phase01: performed exploratory data analysis on of global terrorism dataset and breast cancer classification using regression techniques.Phase02: Used random forest classification for email spam classification model and neural networks for speech emotion recognition model.",
-      //     color: "#ee3c26",
-      //   },
+        //    {
+        //   title: "Data Science Intern",
+        //   company: "Coder's Cave",
+        //   company_url: "https://www.linkedin.com/posts/kshitij-chaudhary-91374b2b3_coderscave-thank-you-activity-7228309716907474944-mlvw?utm_source=share&utm_medium=member_desktop",
+        //   logo_path: "coderscave.png",
+        //   duration: "July 2023 - Aug 2023",
+        //   location: "Chennai, India",
+        //   description:
+        //     "Phase01: performed exploratory data analysis on of global terrorism dataset and breast cancer classification using regression techniques.Phase02: Used random forest classification for email spam classification model and neural networks for speech emotion recognition model.",
+        //   color: "#ee3c26",
+        // },
       
-    //   ],
-    // },
+      ],
+    },
     {
       title: "Position of Responsibility",
       experiences: [
@@ -407,7 +407,7 @@ const contactPageData = {
   blogSection: {
     title: "Articles",
     subtitle:
-      "I like to talk about the mathematical aspects on neural networks and other deep learning models.",
+      "I like to talk about the more technical skills.",
     link: "https://medium.com/@preetpalsingh591",
     avatar_image_path: "blogs_image.svg",
   },
