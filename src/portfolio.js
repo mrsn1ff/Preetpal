@@ -269,7 +269,7 @@ const experience = {
           title: "Web Developer",
           company: "GAO Tek Inc.",
           company_url: "https://gaotek.com/",
-          logo_path: "gaotek.jpg",
+          logo_path: "gao_tek_inc_germany_logo.jpg",
           duration: "Oct 2024 - Jan 2025",
           location: "Delaware, USA",
           description:
