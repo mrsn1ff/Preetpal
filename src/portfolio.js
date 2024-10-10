@@ -262,9 +262,9 @@ const experience = {
     "I participated in Manthon 2.0 and Manthon 3.0 hackathons, where I served as the Frontend Developer. During these events, I developed user interfaces for web applications, focusing on responsive design and user experience. I collaborated with team members to integrate APIs and enhance application functionality. These experiences not only improved my technical skills in React and UI/UX design but also strengthened my teamwork and problem-solving abilities.",
   header_image_path: "experience.svg",
   sections: [
-    {
-      title: "Internships",
-      experiences: [
+    // {
+    //   title: "Internships",
+    //   experiences: [
         // {
         //   title: "Machine Learning Intern",
         //   company: "CodSoft",
@@ -277,20 +277,20 @@ const experience = {
         //   color: "#ee3c26",
         // }, 
       
-           {
-          title: "Web Developer",
-          company: "GAO TEK Inc.",
-          company_url: "https://www.linkedin.com/company/gao-tek-inc-/",
-          logo_path: "logo1.png",
-          duration: "Oct 2024 - Present",
-          location: "Delaware, USA",
-          description:
-            "Web Developer Intern at GAO Tek Inc. in Delaware, USA for 3 months. Gained hands-on experience in debugging, optimizing performance , and working with a dynamic team.",
-          color: "#ee3c26",
-        },
+    //        {
+    //       title: "Web Developer",
+    //       company: "GAO TEK Inc.",
+    //       company_url: "https://www.linkedin.com/company/gao-tek-inc-/",
+    //       logo_path: "logo1.png",
+    //       duration: "Oct 2024 - Present",
+    //       location: "Delaware, USA",
+    //       description:
+    //         "Web Developer Intern at GAO Tek Inc. in Delaware, USA for 3 months. Gained hands-on experience in debugging, optimizing performance , and working with a dynamic team.",
+    //       color: "#ee3c26",
+    //     },
       
-      ],
-    },
+    //   ],
+    // },
     {
       title: "Position of Responsibility",
       experiences: [
