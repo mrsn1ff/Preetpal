@@ -265,17 +265,30 @@ const experience = {
     {
       title: "Internships",
       experiences: [
-        {
+        // {
+        //   title: "Machine Learning Intern",
+        //   company: "CodSoft",
+        //   company_url: "https://drive.google.com/file/d/1lJhq0EH3KAIDt7FvXhPAH85HSp4T7kFO/view",
+        //   logo_path: "codsoft.png",
+        //   duration: "Aug 2024 - Sep 2024",
+        //   location: "Chennai, India",
+        //   description:
+        //     "Phase01: The objective of this project create a machine learning model that can predict the genre of a movie based on its plot summary or other textual information.",
+        //   color: "#ee3c26",
+        // }, 
+      
+           {
           title: "Web Developer",
-          company: "GAO Tek Inc.",
-          company_url: "https://gaotek.com/",
+          company: "GAO TEK Inc.",
+          company_url: "https://www.linkedin.com/company/gao-tek-inc-/",
           logo_path: "logo1.png",
           duration: "Oct 2024 - Present",
           location: "Delaware, USA",
           description:
-            "Web Developer Intern at GAO Tek Inc. in Delaware, USA for three months. Gained hands-on experience in debugging, optimizing performance, and working within a dynamic team.",
+            "Web Developer Intern at GAO Tek Inc. in Delaware, USA for 3 months. Gained hands-on experience in debugging, optimizing performance , and working with a dynamic team.",
           color: "#ee3c26",
         },
+      
       ],
     },
     {
