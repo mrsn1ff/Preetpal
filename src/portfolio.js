@@ -269,8 +269,8 @@ const experience = {
           title: "Web Developer",
           company: "GAO Tek Inc.",
           company_url: "https://gaotek.com/",
-          logo_path: "gao_tek_inc_germany_logo.jpg",
-          duration: "Oct 2024 - Jan 2025",
+          logo_path: "logo1.jpg",
+          duration: "Oct 2024 - Present",
           location: "Delaware, USA",
           description:
             "Web Developer Intern at GAO Tek Inc. in Delaware, USA for three months. Gained hands-on experience in debugging, optimizing performance, and working within a dynamic team.",
